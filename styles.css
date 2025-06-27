@@ -467,7 +467,7 @@ nav a:hover {
 }
 
 .depoimento-texto:before {
-    content: """;
+    content: "";
     font-size: 4rem;
     color: var(--primary-color);
     opacity: 0.2;
